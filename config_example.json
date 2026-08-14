@@ -1,0 +1,15 @@
+{
+  "strategy": {
+    "short_term_days": "1-15 Handelstage",
+    "medium_term_months": "1-6 Monate",
+    "style": "aktiv",
+    "automatic_orders": false
+  },
+  "data": {
+    "provider": "Twelve Data",
+    "mode": "MVP"
+  },
+  "notifications": {
+    "enabled": false
+  }
+}
